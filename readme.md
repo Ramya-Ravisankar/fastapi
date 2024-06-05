@@ -54,3 +54,7 @@ Added line 6 to build the image for my FastAPI application and tag it as ramyara
 Ln 6
 image: ramyaravisankar/fastapi
 
+Screenshots:
+### ![DockerHub_fastapirepo_Image_push](Embedded_Images/DockerHub_fastapirepo_image_push.png)
+
+### ![Github_Actions_Successful_Run](Embedded_Images/Github_Actions_Successful_Run.png)
